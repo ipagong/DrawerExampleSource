@@ -1,0 +1,10 @@
+PODS:
+  - PGDrawerTransition (0.2.4)
+
+DEPENDENCIES:
+  - PGDrawerTransition
+
+SPEC CHECKSUMS:
+  PGDrawerTransition: 2b31f873f40eb5982abd5d67bd1db0af56259284
+
+COCOAPODS: 0.39.0
